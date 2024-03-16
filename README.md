@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 
 🌐 Feel free to explore my repositories, contribute, or reach out to me if you have any questions, ideas, or just want to connect. Collaboration fuels innovation, and I'm always open to new opportunities and insights.
 
-📫 You can reach me via email at [your.email@example.com](mailto: adityacodes2312@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-pandey-662132283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+📫 You can reach me via email at [Mail](mailto: adityacodes2312@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-pandey-662132283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ### Let's Build the Future Together
 
